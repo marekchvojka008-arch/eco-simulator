@@ -1,0 +1,6 @@
+eco_simulator/
+├── app.py          # hlavný program (streamlit)
+├── models/         # sem môžeš uložiť matematické modely
+├── data/           # ak budeš používať dátové súbory (csv, excel)
+├── utils/          # pomocné funkcie
+└── requirements.txt # zoznam knižníc
